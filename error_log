@@ -1,0 +1,47 @@
+[09-Jun-2018 09:56:51 Etc/GMT] PHP Warning:  include_once(processor/functions.php): failed to open stream: No such file or directory in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:56:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'processor/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:56:51 Etc/GMT] PHP Fatal error:  Call to undefined function gatekeeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:57:40 Etc/GMT] PHP Warning:  include_once(processor/functions.php): failed to open stream: No such file or directory in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:40 Etc/GMT] PHP Warning:  include_once(): Failed opening 'processor/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:40 Etc/GMT] PHP Fatal error:  Call to undefined function gate_keeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:57:45 Etc/GMT] PHP Warning:  include_once(processor/functions.php): failed to open stream: No such file or directory in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:45 Etc/GMT] PHP Warning:  include_once(): Failed opening 'processor/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:45 Etc/GMT] PHP Fatal error:  Call to undefined function gate_keeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:57:48 Etc/GMT] PHP Warning:  include_once(processor/functions.php): failed to open stream: No such file or directory in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:48 Etc/GMT] PHP Warning:  include_once(): Failed opening 'processor/functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 1
+[09-Jun-2018 09:57:48 Etc/GMT] PHP Fatal error:  Call to undefined function gate_keeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:58:58 Etc/GMT] PHP Fatal error:  Call to undefined function gatekeeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:59:02 Etc/GMT] PHP Fatal error:  Call to undefined function gatekeeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 09:59:26 Etc/GMT] PHP Fatal error:  Call to undefined function gatekeeper() in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 10:01:58 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 10:01:58 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[09-Jun-2018 11:06:10 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 11:06:10 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[09-Jun-2018 11:13:41 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 11:13:41 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[09-Jun-2018 11:13:45 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 11:13:45 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[09-Jun-2018 11:20:24 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 11:20:24 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[09-Jun-2018 11:21:15 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[09-Jun-2018 11:21:15 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[18-Jun-2018 08:36:17 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[18-Jun-2018 08:36:17 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:39:38 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:39:38 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:40:40 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:40:40 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:48:32 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:48:32 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:49:20 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:49:20 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:49:46 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:49:46 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 12:49:49 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 12:49:49 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 13:52:27 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 13:52:27 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[21-Jun-2018 13:52:30 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 10
+[21-Jun-2018 13:52:30 Etc/GMT] PHP Notice:  Undefined index: tag in /home/osmottyt/public_html/core/workspace/Mango_City/core/frontend/processor/functions.php on line 1322
+[30-Jun-2018 07:55:00 Etc/GMT] PHP Warning:  include_once(core/frontend/common/heaqder.php): failed to open stream: No such file or directory in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 7
+[30-Jun-2018 07:55:00 Etc/GMT] PHP Warning:  include_once(): Failed opening 'core/frontend/common/heaqder.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/osmottyt/public_html/core/workspace/Mango_City/index.php on line 7
